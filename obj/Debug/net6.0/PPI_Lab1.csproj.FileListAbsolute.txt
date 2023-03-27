@@ -1,0 +1,15 @@
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\Інтерфейси Паралельного Програмування (ІПП)\PPI_Lab1\bin\Debug\net6.0\PPI_Lab1.exe
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\Інтерфейси Паралельного Програмування (ІПП)\PPI_Lab1\bin\Debug\net6.0\PPI_Lab1.deps.json
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\Інтерфейси Паралельного Програмування (ІПП)\PPI_Lab1\bin\Debug\net6.0\PPI_Lab1.runtimeconfig.json
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\Інтерфейси Паралельного Програмування (ІПП)\PPI_Lab1\bin\Debug\net6.0\PPI_Lab1.dll
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\Інтерфейси Паралельного Програмування (ІПП)\PPI_Lab1\bin\Debug\net6.0\ref\PPI_Lab1.dll
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\Інтерфейси Паралельного Програмування (ІПП)\PPI_Lab1\bin\Debug\net6.0\PPI_Lab1.pdb
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\Інтерфейси Паралельного Програмування (ІПП)\PPI_Lab1\obj\Debug\net6.0\PPI_Lab1.csproj.AssemblyReference.cache
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\Інтерфейси Паралельного Програмування (ІПП)\PPI_Lab1\obj\Debug\net6.0\PPI_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\Інтерфейси Паралельного Програмування (ІПП)\PPI_Lab1\obj\Debug\net6.0\PPI_Lab1.AssemblyInfoInputs.cache
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\Інтерфейси Паралельного Програмування (ІПП)\PPI_Lab1\obj\Debug\net6.0\PPI_Lab1.AssemblyInfo.cs
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\Інтерфейси Паралельного Програмування (ІПП)\PPI_Lab1\obj\Debug\net6.0\PPI_Lab1.csproj.CoreCompileInputs.cache
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\Інтерфейси Паралельного Програмування (ІПП)\PPI_Lab1\obj\Debug\net6.0\PPI_Lab1.dll
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\Інтерфейси Паралельного Програмування (ІПП)\PPI_Lab1\obj\Debug\net6.0\ref\PPI_Lab1.dll
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\Інтерфейси Паралельного Програмування (ІПП)\PPI_Lab1\obj\Debug\net6.0\PPI_Lab1.pdb
+E:\учёба\ХНУРЭ\Курс 3\Семестр 2\Інтерфейси Паралельного Програмування (ІПП)\PPI_Lab1\obj\Debug\net6.0\PPI_Lab1.genruntimeconfig.cache
